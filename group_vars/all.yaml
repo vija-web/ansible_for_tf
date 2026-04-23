@@ -1,0 +1,9 @@
+MONGODB_HOST: mongodb.vijayaws.fun
+REDIS_HOST: redis.vijayaws.fun
+CATALOGUE_HOST: catalogue.vijayaws.fun
+CART_HOST: cart.vijayaws.fun
+USER_HOST: user.vijayaws.fun
+RABBITMQ_HOST: rabbitmq.vijayaws.fun
+MYSQL_HOST: mysql.vijayaws.fun
+SHIPPING_HOST: shipping.vijayaws.fun
+PAYMENT_HOST: payment.vijayaws.fun
