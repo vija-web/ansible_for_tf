@@ -1,6 +1,6 @@
 - name: Starting main.yaml
   hosts: "{{ component }}"
   become: yes
-  connection: localhost
+  connection: local
   roles:
   - "{{ component }}"
