@@ -1,1 +1,1 @@
-MONGODB_HOST: mongodb.vijayaws.fun
+MONGODB_HOST: mongodb-{{ project }}-{{ env }}-{{ zone }}.vijayaws.fun
