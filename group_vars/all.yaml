@@ -1,0 +1,4 @@
+MONGODB_HOST: mongodb-{{ project }}-{{ env }}-{{ zone }}.vijayaws.fun
+REDIS_HOST: redis-{{ project }}-{{ env }}-{{ zone }}.vijayaws.fun
+RABBITMQ_HOST: rabbitmq-{{ project }}-{{ env }}-{{ zone }}.vijayaws.fun
+MYSQL_HOST: mysql-{{ project }}-{{ env }}-{{ zone }}.vijayaws.fun
