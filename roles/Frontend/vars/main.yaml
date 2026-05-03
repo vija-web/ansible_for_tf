@@ -1,2 +1,2 @@
 MONGODB_HOST: mongodb-{{ project }}-{{ env }}-{{ zone }}.vijayaws.fun
-component: catalogue
+component: frontend
