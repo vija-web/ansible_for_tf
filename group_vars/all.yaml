@@ -2,3 +2,9 @@ MONGODB_HOST: mongodb-{{ project }}-{{ env }}-{{ zone }}.vijayaws.fun
 REDIS_HOST: redis-{{ project }}-{{ env }}-{{ zone }}.vijayaws.fun
 RABBITMQ_HOST: rabbitmq-{{ project }}-{{ env }}-{{ zone }}.vijayaws.fun
 MYSQL_HOST: mysql-{{ project }}-{{ env }}-{{ zone }}.vijayaws.fun
+CATALOGUE_ALB: catalogue.backend-alb-{{ project }}-{{ env }}.vijayaws.fun
+USER_ALB: user.backend-alb-{{ project }}-{{ env }}.vijayaws.fun
+SHIPPING_ALB: shipping.backend-alb-{{ project }}-{{ env }}.vijayaws.fun
+CART_ALB: cart.backend-alb-{{ project }}-{{ env }}.vijayaws.fun
+PAYMENT_ALB: payment.backend-alb-{{ project }}-{{ env }}.vijayaws.fun
+
